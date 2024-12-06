@@ -32,7 +32,7 @@ Retrieve All Courses
 GET /api/courses
 Response:
 json
-Copy code
+
 [
   {
     "courseId": "101",
@@ -46,7 +46,7 @@ Update Progress
 POST /api/progress
 Request Body:
 json
-Copy code
+
 {
   "userId": "123",
   "courseId": "101",
@@ -82,7 +82,7 @@ Steps to Run Locally
 Clone the repository:
 
 
-git clone https://github.com/shem4soul/web3-learn-to-earn.git
+git clone https://github.com/shem4soul/LearnChainProject.git
 cd web3-learn-to-earn
 Install dependencies:
 
