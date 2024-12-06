@@ -2,11 +2,13 @@ Web3 Learn-to-Earn Platform API
 A lightweight RESTful API built with Node.js and Express for managing courses and tracking user progress in a Web3 Learn-to-Earn platform. This backend application adheres to the MVC (Model-View-Controller) architecture for clean and maintainable code.
 
 Features
-Course Management
-Add new courses to the platform.
+.Course Management
+.Add new courses to the platform.
+
 Retrieve all available courses.
-Progress Tracking
-Update a user’s progress for specific courses.
+.Progress Tracking
+.Update a user’s progress for specific courses.
+
 Retrieve all progress data for a particular user.
 API Endpoints
 Courses
