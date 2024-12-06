@@ -54,7 +54,7 @@ json
 }
 Response:
 json
-Copy code
+
 {
   "message": "Progress updated successfully."
 }
@@ -63,7 +63,7 @@ Get User Progress
 GET /api/progress/:userId
 Response:
 json
-Copy code
+
 [
   {
     "userId": "123",
@@ -83,7 +83,8 @@ Clone the repository:
 
 
 git clone https://github.com/shem4soul/LearnChainProject.git
-cd web3-learn-to-earn
+
+web3-learn-to-earn
 Install dependencies:
 
 
